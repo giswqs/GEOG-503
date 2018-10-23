@@ -3,4 +3,7 @@ Labs/
 Quizzes/
 Exams/
 **/*.html
-**/.idea/
+**/.idea/*
+**/.vscode/
+**/__pycache__/
+**/*.pyc
