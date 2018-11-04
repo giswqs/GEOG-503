@@ -5,7 +5,6 @@ dependencies:
   - python=3.6
   - numpy
   - matplotlib
-  - geopandas
   - pip:
     - archook
     - PySimpleGUI
